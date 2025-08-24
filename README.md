@@ -56,7 +56,7 @@ pip install needleman-wunsch-aligner
 
 ### From source
 ```bash
-git clone https://github.com/yourusername/needleman-wunsch-alignment.git
+git clone https://github.com/devansh-shah56/needleman-wunsch-alignment.git
 cd needleman-wunsch-alignment
 pip install -e .
 ```
