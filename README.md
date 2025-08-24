@@ -248,12 +248,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by bioinformatics coursework and research
 - Thanks to the open-source bioinformatics community
 
-## 📞 Contact
-
-**Your Name** - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/needleman-wunsch-alignment](https://github.com/yourusername/needleman-wunsch-alignment)
-
 ---
 
 <div align="center">
