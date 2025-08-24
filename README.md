@@ -9,8 +9,6 @@
 
 *A comprehensive Python implementation of the Needleman-Wunsch algorithm for global sequence alignment*
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Examples](#examples) • [Documentation](#documentation)
-
 </div>
 
 ## 🧬 Overview
