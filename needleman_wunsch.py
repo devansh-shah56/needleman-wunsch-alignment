@@ -4,7 +4,7 @@ Needleman-Wunsch Algorithm for Global Sequence Alignment
 This module provides a comprehensive implementation of the Needleman-Wunsch algorithm,
 a fundamental dynamic programming approach for global sequence alignment in bioinformatics.
 
-Author: [Your Name]
+Author: Devansh Shah
 Date: August 2025
 Version: 1.0.0
 """
